@@ -1,55 +1,123 @@
 *{
-  text-align: center;
+
   font-family: Helvetica;
 }
 h1{
   font-size: 70px;
   font-weight: bold;
   color: white;
+  text-align:center;
+
 }
 
 div.topman {
   background-image: url("../images/the-flatiron-building.png");
 }
 
-div.design{
+#designo {
   background-image: url("../images/the-flatiron-building.png");
   font-size: 23px;
   font-weight: bold;
   color: white;
+  text-align:center;
+
 }
 
-.topman p{
+.topman {
   font-size: 17px;
   color:white;
-}
-
-p{
-  font-size: 14px;
+  text-align:center;
 
 }
+
+
+
+
+
+
 
 h2{
   font-size: 32px;
   font-weight: bold;
+  text-align:center;
+
+
 }
 
-.process h3{
+#process h3{
   font-size: 23px;
   font-weight:bold;
+  text-align:center;
+
+
 }
 
 .porto h3{
   font-size: 23px;
   font-weight: bold;
+  text-align:center;
+
+
 }
 
-.avengers h3{
+#avengers h3{
   font-size: 23px;
   font-weight: bold;
+  text-align:center;
+
+
 }
-.contacto h3{
+#contacto h3{
   font-size:23px;
   font-weight:bold;
+  text-align:center;
 
+
+
+}
+
+ .copycat p {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+
+}
+
+img{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+}
+
+.poop{
+  text-align:center;
+  font-size: 14px;
+}
+
+.toppoop{
+  text-align:center;
+  font-size: 17px;
+}
+
+.bottompoop{
+  text-align: left;
+  font-size: 17px;
+  background-color: inherit;
+
+}
+
+.doorknob{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+
+}
+
+.bottom{
+  background-color: inherit;
+  text-align: inherit;
+  color: inherit;
+  font-size: 17px
 }
