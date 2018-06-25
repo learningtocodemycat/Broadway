@@ -5,8 +5,51 @@
 h1{
   font-size: 70px;
   font-weight: bold;
+  color: white;
 }
 
 div.topman {
   background-image: url("../images/the-flatiron-building.png");
+}
+
+div.design{
+  background-image: url("../images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.topman p{
+  font-size: 17px;
+  color:white;
+}
+
+p{
+  font-size: 14px;
+
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.process h3{
+  font-size: 23px;
+  font-weight:bold;
+}
+
+.porto h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.avengers h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+.contacto h3{
+  font-size:23px;
+  font-weight:bold;
+
 }
